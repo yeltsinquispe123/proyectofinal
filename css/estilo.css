@@ -1,9 +1,9 @@
 body {
-    background-color: #07e71a;
+
     color: #d80808;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-        background: url(arce.jpeg);
+        background-image: url(IMG/quispe.jpg);
          background-size: cover;
          background-attachment: fixed;
 }
